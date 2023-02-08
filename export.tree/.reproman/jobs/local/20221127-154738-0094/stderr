@@ -1,5 +1,0 @@
-WARNING (11/27/22 15:57:39): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.5016028.hostlist.POcOMusd to get hosts
-starting job on c211-030
-slurmstepd: error: *** JOB 5016028 ON c211-030 CANCELLED AT 2022-11-27T23:57:49 DUE TO TIME LIMIT ***
-Terminated
